@@ -1,4 +1,4 @@
 # hello-world
-tutorial
+tutor
 
 Robie tutoriala co by ogarnąć tą kuwetę.
